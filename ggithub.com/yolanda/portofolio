@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Portfolio Saya</title>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            background: #f4f4f4;
+        }
+
+        header {
+            background: #ff69b4;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        section {
+            padding: 40px;
+            text-align: center;
+        }
+
+        .btn {
+            background: #ff69b4;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Portfolio Saya</h1>
+    <p>Web Developer Pemula</p>
+</header>
+
+<section>
+    <h2>Tentang Saya</h2>
+    <p>Halo, saya adalah siswa yang sedang belajar membuat website.</p>
+
+    <br>
+
+    <a href="#" class="btn">Hubungi Saya</a>
+</section>
+
+<footer>
+    <p>© 2026 Portfolio Saya</p>
+</footer>
+
+</body>
+</html>
